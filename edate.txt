@@ -1,1 +1,327 @@
+# cat date.log
+1747289257.450960490 - Initialized state file and removed .bmp files
+1747289257.471204970 - Found file: /root/input_data/image.bmp
+1747289257.513505100 - Current systemState: processed
+1747289257.542403310 - Copied /root/input_data/image.bmp to /root/shared_with_realm/
+1747289257.572337970 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image.bmp
+1747289257.587165770 - Found file: /root/input_data/image1.bmp
+1747289267.708821770 - Current systemState: processed
+1747289267.739400340 - Copied /root/input_data/image1.bmp to /root/shared_with_realm/
+1747289267.769498060 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image1.bmp
+1747289267.784325270 - Found file: /root/input_data/image10.bmp
+1747289277.905521640 - Current systemState: processed
+1747289277.935744230 - Copied /root/input_data/image10.bmp to /root/shared_with_realm/
+1747289277.965842680 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image10.bmp
+1747289277.980955570 - Found file: /root/input_data/image11.bmp
+1747289283.063385590 - Current systemState: processed
+1747289283.093202910 - Copied /root/input_data/image11.bmp to /root/shared_with_realm/
+1747289283.123737730 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image11.bmp
+1747289283.138905110 - Found file: /root/input_data/image12.bmp
+1747289293.259781400 - Current systemState: processed
+1747289293.290076820 - Copied /root/input_data/image12.bmp to /root/shared_with_realm/
+1747289293.320171490 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image12.bmp
+1747289293.335377240 - Found file: /root/input_data/image13.bmp
+1747289298.416819350 - Current systemState: processed
+1747289298.447406240 - Copied /root/input_data/image13.bmp to /root/shared_with_realm/
+1747289298.477492420 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image13.bmp
+1747289298.492686540 - Found file: /root/input_data/image14.bmp
+1747289308.614735440 - Current systemState: processed
+1747289308.645116230 - Copied /root/input_data/image14.bmp to /root/shared_with_realm/
+1747289308.675510820 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image14.bmp
+1747289308.690389000 - Found file: /root/input_data/image15.bmp
+1747289313.772408860 - Current systemState: processed
+1747289313.802741280 - Copied /root/input_data/image15.bmp to /root/shared_with_realm/
+1747289313.832935890 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image15.bmp
+1747289313.848051370 - Found file: /root/input_data/image16.bmp
+1747289323.969462070 - Current systemState: processed
+1747289323.999724540 - Copied /root/input_data/image16.bmp to /root/shared_with_realm/
+1747289324.030140180 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image16.bmp
+1747289324.044935810 - Found file: /root/input_data/image17.bmp
+1747289329.127196700 - Current systemState: processed
+1747289329.157610700 - Copied /root/input_data/image17.bmp to /root/shared_with_realm/
+1747289329.187820150 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image17.bmp
+1747289329.203051150 - Found file: /root/input_data/image18.bmp
+1747289339.324076040 - Current systemState: processed
+1747289339.354350640 - Copied /root/input_data/image18.bmp to /root/shared_with_realm/
+1747289339.384327520 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image18.bmp
+1747289339.399500480 - Found file: /root/input_data/image19.bmp
+1747289344.481134160 - Current systemState: processed
+1747289344.511293110 - Copied /root/input_data/image19.bmp to /root/shared_with_realm/
+1747289344.541457960 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image19.bmp
+1747289344.556347200 - Found file: /root/input_data/image2.bmp
+1747289354.677988600 - Current systemState: processed
+1747289354.708184910 - Copied /root/input_data/image2.bmp to /root/shared_with_realm/
+1747289354.738327700 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image2.bmp
+1747289354.753409250 - Found file: /root/input_data/image20.bmp
+1747289359.834682900 - Current systemState: processed
+1747289359.864816410 - Copied /root/input_data/image20.bmp to /root/shared_with_realm/
+1747289359.895504550 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image20.bmp
+1747289359.910405870 - Found file: /root/input_data/image21.bmp
+1747289370.031551490 - Current systemState: processed
+1747289370.062028750 - Copied /root/input_data/image21.bmp to /root/shared_with_realm/
+1747289370.092467950 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image21.bmp
+1747289370.107356470 - Found file: /root/input_data/image22.bmp
+1747289375.189518900 - Current systemState: processed
+1747289375.219842200 - Copied /root/input_data/image22.bmp to /root/shared_with_realm/
+1747289375.250199890 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image22.bmp
+1747289375.265124770 - Found file: /root/input_data/image23.bmp
+1747289385.385792250 - Current systemState: processed
+1747289385.416386130 - Copied /root/input_data/image23.bmp to /root/shared_with_realm/
+1747289385.446552730 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image23.bmp
+1747289385.461602750 - Found file: /root/input_data/image24.bmp
+1747289390.544045220 - Current systemState: processed
+1747289390.574780610 - Copied /root/input_data/image24.bmp to /root/shared_with_realm/
+1747289390.605021300 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image24.bmp
+1747289390.620248470 - Found file: /root/input_data/image25.bmp
+1747289400.741660560 - Current systemState: processed
+1747289400.771784390 - Copied /root/input_data/image25.bmp to /root/shared_with_realm/
+1747289400.801993040 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image25.bmp
+1747289400.816886020 - Found file: /root/input_data/image26.bmp
+1747289405.898472870 - Current systemState: processed
+1747289405.928847570 - Copied /root/input_data/image26.bmp to /root/shared_with_realm/
+1747289405.959005590 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image26.bmp
+1747289405.974224010 - Found file: /root/input_data/image27.bmp
+1747289416.095714190 - Current systemState: processed
+1747289416.126007530 - Copied /root/input_data/image27.bmp to /root/shared_with_realm/
+1747289416.156298280 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image27.bmp
+1747289416.171288810 - Found file: /root/input_data/image28.bmp
+1747289421.252353090 - Current systemState: processed
+1747289421.282805150 - Copied /root/input_data/image28.bmp to /root/shared_with_realm/
+1747289421.313354470 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image28.bmp
+1747289421.328203990 - Found file: /root/input_data/image29.bmp
+1747289431.449261410 - Current systemState: processed
+1747289431.480184410 - Copied /root/input_data/image29.bmp to /root/shared_with_realm/
+1747289431.510302980 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image29.bmp
+1747289431.525342690 - Found file: /root/input_data/image3.bmp
+1747289436.607648120 - Current systemState: processed
+1747289436.637952740 - Copied /root/input_data/image3.bmp to /root/shared_with_realm/
+1747289436.668227260 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image3.bmp
+1747289436.683175390 - Found file: /root/input_data/image30.bmp
+1747289446.804056670 - Current systemState: processed
+1747289446.834466400 - Copied /root/input_data/image30.bmp to /root/shared_with_realm/
+1747289446.864848740 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image30.bmp
+1747289446.879742170 - Found file: /root/input_data/image31.bmp
+1747289451.961937260 - Current systemState: processed
+1747289451.992509340 - Copied /root/input_data/image31.bmp to /root/shared_with_realm/
+1747289452.022650550 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image31.bmp
+1747289452.037756780 - Found file: /root/input_data/image32.bmp
+1747289462.159553940 - Current systemState: processed
+1747289462.189646110 - Copied /root/input_data/image32.bmp to /root/shared_with_realm/
+1747289462.219820720 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image32.bmp
+1747289462.235205760 - Found file: /root/input_data/image33.bmp
+1747289467.317006020 - Current systemState: processed
+1747289467.347391430 - Copied /root/input_data/image33.bmp to /root/shared_with_realm/
+1747289467.377945550 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image33.bmp
+1747289467.392888510 - Found file: /root/input_data/image34.bmp
+1747289477.514422270 - Current systemState: processed
+1747289477.544797790 - Copied /root/input_data/image34.bmp to /root/shared_with_realm/
+1747289477.575037590 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image34.bmp
+1747289477.589891830 - Found file: /root/input_data/image35.bmp
+1747289482.671454590 - Current systemState: processed
+1747289482.701805640 - Copied /root/input_data/image35.bmp to /root/shared_with_realm/
+1747289482.731623440 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image35.bmp
+1747289482.746893500 - Found file: /root/input_data/image36.bmp
+1747289492.868257400 - Current systemState: processed
+1747289492.898992280 - Copied /root/input_data/image36.bmp to /root/shared_with_realm/
+1747289492.929120620 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image36.bmp
+1747289492.944280010 - Found file: /root/input_data/image37.bmp
+1747289498.025994010 - Current systemState: processed
+1747289498.056341600 - Copied /root/input_data/image37.bmp to /root/shared_with_realm/
+1747289498.086643190 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image37.bmp
+1747289498.101612610 - Found file: /root/input_data/image38.bmp
+1747289508.222309680 - Current systemState: processed
+1747289508.252420290 - Copied /root/input_data/image38.bmp to /root/shared_with_realm/
+1747289508.282773040 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image38.bmp
+1747289508.297925070 - Found file: /root/input_data/image39.bmp
+1747289513.380029400 - Current systemState: processed
+1747289513.410866970 - Copied /root/input_data/image39.bmp to /root/shared_with_realm/
+1747289513.441141180 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image39.bmp
+1747289513.456278440 - Found file: /root/input_data/image4.bmp
+1747289523.577509440 - Current systemState: processed
+1747289523.607745260 - Copied /root/input_data/image4.bmp to /root/shared_with_realm/
+1747289523.638098120 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image4.bmp
+1747289523.653243030 - Found file: /root/input_data/image5.bmp
+1747289533.774258070 - Current systemState: processed
+1747289533.804813800 - Copied /root/input_data/image5.bmp to /root/shared_with_realm/
+1747289533.835007390 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image5.bmp
+1747289533.850072540 - Found file: /root/input_data/image6.bmp
+1747289543.971411330 - Current systemState: processed
+1747289544.001825330 - Copied /root/input_data/image6.bmp to /root/shared_with_realm/
+1747289544.032000310 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image6.bmp
+1747289544.046974330 - Found file: /root/input_data/image7.bmp
+1747289554.168564260 - Current systemState: processed
+1747289554.199064290 - Copied /root/input_data/image7.bmp to /root/shared_with_realm/
+1747289554.229361110 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image7.bmp
+1747289554.244188390 - Found file: /root/input_data/image8.bmp
+1747289564.365308620 - Current systemState: processed
+1747289564.395833400 - Copied /root/input_data/image8.bmp to /root/shared_with_realm/
+1747289564.426415230 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image8.bmp
+1747289564.441563700 - Found file: /root/input_data/image9.bmp
+1747289574.562650130 - Current systemState: processed
+1747289574.593241200 - Copied /root/input_data/image9.bmp to /root/shared_with_realm/
+1747289574.624466110 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image9.bmp
+1747289574.641336070 - Process finished, updated systemState to 'finished'
+1747353732.146059820 - Initialized state file and removed .bmp files
+1747353732.166705850 - Found file: /root/input_data/image.bmp
+1747353732.209623200 - Current systemState: processed
+1747353732.241450620 - Copied /root/input_data/image.bmp to /root/shared_with_realm/
+1747353732.272751470 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image.bmp
+1747353732.287752330 - Found file: /root/input_data/image1.bmp
+1747353742.408830580 - Current systemState: processed
+1747353742.439362240 - Copied /root/input_data/image1.bmp to /root/shared_with_realm/
+1747353742.469582390 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image1.bmp
+1747353742.484464990 - Found file: /root/input_data/image10.bmp
+1747353752.605294440 - Current systemState: processed
+1747353752.635875580 - Copied /root/input_data/image10.bmp to /root/shared_with_realm/
+1747353752.666150730 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image10.bmp
+1747353752.681379630 - Found file: /root/input_data/image11.bmp
+1747353757.762926290 - Current systemState: processed
+1747353757.793120630 - Copied /root/input_data/image11.bmp to /root/shared_with_realm/
+1747353757.823706100 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image11.bmp
+1747353757.838901380 - Found file: /root/input_data/image12.bmp
+1747353767.959453500 - Current systemState: processed
+1747353767.989717830 - Copied /root/input_data/image12.bmp to /root/shared_with_realm/
+1747353768.019796450 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image12.bmp
+1747353768.034904320 - Found file: /root/input_data/image13.bmp
+1747353773.116686610 - Current systemState: processed
+1747353773.147237500 - Copied /root/input_data/image13.bmp to /root/shared_with_realm/
+1747353773.177795680 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image13.bmp
+1747353773.192941340 - Found file: /root/input_data/image14.bmp
+1747353783.313571320 - Current systemState: processed
+1747353783.344115920 - Copied /root/input_data/image14.bmp to /root/shared_with_realm/
+1747353783.374384740 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image14.bmp
+1747353783.389562390 - Found file: /root/input_data/image15.bmp
+1747353788.470440850 - Current systemState: processed
+1747353788.500476610 - Copied /root/input_data/image15.bmp to /root/shared_with_realm/
+1747353788.530602660 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image15.bmp
+1747353788.545676390 - Found file: /root/input_data/image16.bmp
+1747353798.665912380 - Current systemState: processed
+1747353798.696352630 - Copied /root/input_data/image16.bmp to /root/shared_with_realm/
+1747353798.726779680 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image16.bmp
+1747353798.741897050 - Found file: /root/input_data/image17.bmp
+1747353803.823542350 - Current systemState: processed
+1747353803.854591920 - Copied /root/input_data/image17.bmp to /root/shared_with_realm/
+1747353803.884688180 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image17.bmp
+1747353803.899501980 - Found file: /root/input_data/image18.bmp
+1747353814.019421080 - Current systemState: processed
+1747353814.049614250 - Copied /root/input_data/image18.bmp to /root/shared_with_realm/
+1747353814.079942380 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image18.bmp
+1747353814.094885160 - Found file: /root/input_data/image19.bmp
+1747353819.176226060 - Current systemState: processed
+1747353819.206509430 - Copied /root/input_data/image19.bmp to /root/shared_with_realm/
+1747353819.236850560 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image19.bmp
+1747353819.251774080 - Found file: /root/input_data/image2.bmp
+1747353829.372095180 - Current systemState: processed
+1747353829.402481840 - Copied /root/input_data/image2.bmp to /root/shared_with_realm/
+1747353829.432614370 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image2.bmp
+1747353829.447889370 - Found file: /root/input_data/image20.bmp
+1747353834.529172590 - Current systemState: processed
+1747353834.559324560 - Copied /root/input_data/image20.bmp to /root/shared_with_realm/
+1747353834.589548930 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image20.bmp
+1747353834.604473290 - Found file: /root/input_data/image21.bmp
+1747353844.725309570 - Current systemState: processed
+1747353844.755212240 - Copied /root/input_data/image21.bmp to /root/shared_with_realm/
+1747353844.785557030 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image21.bmp
+1747353844.800446400 - Found file: /root/input_data/image22.bmp
+1747353849.881480710 - Current systemState: processed
+1747353849.911672360 - Copied /root/input_data/image22.bmp to /root/shared_with_realm/
+1747353849.941552400 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image22.bmp
+1747353849.956665000 - Found file: /root/input_data/image23.bmp
+1747353860.076558820 - Current systemState: processed
+1747353860.106529890 - Copied /root/input_data/image23.bmp to /root/shared_with_realm/
+1747353860.136658920 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image23.bmp
+1747353860.151708310 - Found file: /root/input_data/image24.bmp
+1747353865.233144520 - Current systemState: processed
+1747353865.263371100 - Copied /root/input_data/image24.bmp to /root/shared_with_realm/
+1747353865.294077320 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image24.bmp
+1747353865.308928470 - Found file: /root/input_data/image25.bmp
+1747353875.429860180 - Current systemState: processed
+1747353875.459888110 - Copied /root/input_data/image25.bmp to /root/shared_with_realm/
+1747353875.490220300 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image25.bmp
+1747353875.505228660 - Found file: /root/input_data/image26.bmp
+1747353880.586849080 - Current systemState: processed
+1747353880.616925140 - Copied /root/input_data/image26.bmp to /root/shared_with_realm/
+1747353880.647112630 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image26.bmp
+1747353880.662234610 - Found file: /root/input_data/image27.bmp
+1747353890.782272870 - Current systemState: processed
+1747353890.812573210 - Copied /root/input_data/image27.bmp to /root/shared_with_realm/
+1747353890.842804930 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image27.bmp
+1747353890.857923910 - Found file: /root/input_data/image28.bmp
+1747353895.939401290 - Current systemState: processed
+1747353895.970492350 - Copied /root/input_data/image28.bmp to /root/shared_with_realm/
+1747353896.000582640 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image28.bmp
+1747353896.015651290 - Found file: /root/input_data/image29.bmp
+1747353906.135748800 - Current systemState: processed
+1747353906.165897950 - Copied /root/input_data/image29.bmp to /root/shared_with_realm/
+1747353906.196413840 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image29.bmp
+1747353906.211366480 - Found file: /root/input_data/image3.bmp
+1747353911.292313340 - Current systemState: processed
+1747353911.322778570 - Copied /root/input_data/image3.bmp to /root/shared_with_realm/
+1747353911.352852210 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image3.bmp
+1747353911.367706830 - Found file: /root/input_data/image30.bmp
+1747353921.487697890 - Current systemState: processed
+1747353921.517644300 - Copied /root/input_data/image30.bmp to /root/shared_with_realm/
+1747353921.547920470 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image30.bmp
+1747353921.562852110 - Found file: /root/input_data/image31.bmp
+1747353926.644321470 - Current systemState: processed
+1747353926.674738240 - Copied /root/input_data/image31.bmp to /root/shared_with_realm/
+1747353926.705225370 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image31.bmp
+1747353926.720045840 - Found file: /root/input_data/image32.bmp
+1747353936.840258570 - Current systemState: processed
+1747353936.870434360 - Copied /root/input_data/image32.bmp to /root/shared_with_realm/
+1747353936.900916210 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image32.bmp
+1747353936.916004370 - Found file: /root/input_data/image33.bmp
+1747353941.996981480 - Current systemState: processed
+1747353942.027208940 - Copied /root/input_data/image33.bmp to /root/shared_with_realm/
+1747353942.057647790 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image33.bmp
+1747353942.072647080 - Found file: /root/input_data/image34.bmp
+1747353952.192270870 - Current systemState: processed
+1747353952.222575650 - Copied /root/input_data/image34.bmp to /root/shared_with_realm/
+1747353952.252994930 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image34.bmp
+1747353952.267963240 - Found file: /root/input_data/image35.bmp
+1747353957.349639840 - Current systemState: processed
+1747353957.379808670 - Copied /root/input_data/image35.bmp to /root/shared_with_realm/
+1747353957.410305600 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image35.bmp
+1747353957.425028230 - Found file: /root/input_data/image36.bmp
+1747353967.546015520 - Current systemState: processed
+1747353967.576684700 - Copied /root/input_data/image36.bmp to /root/shared_with_realm/
+1747353967.606767360 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image36.bmp
+1747353967.621840000 - Found file: /root/input_data/image37.bmp
+1747353972.703807670 - Current systemState: processed
+1747353972.734197420 - Copied /root/input_data/image37.bmp to /root/shared_with_realm/
+1747353972.764543990 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image37.bmp
+1747353972.779717100 - Found file: /root/input_data/image38.bmp
+1747353982.900132870 - Current systemState: processed
+1747353982.930555420 - Copied /root/input_data/image38.bmp to /root/shared_with_realm/
+1747353982.961028870 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image38.bmp
+1747353982.975980310 - Found file: /root/input_data/image39.bmp
+1747353988.057514730 - Current systemState: processed
+1747353988.087611060 - Copied /root/input_data/image39.bmp to /root/shared_with_realm/
+1747353988.117837190 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image39.bmp
+1747353988.132646870 - Found file: /root/input_data/image4.bmp
+1747353998.252980870 - Current systemState: processed
+1747353998.283175050 - Copied /root/input_data/image4.bmp to /root/shared_with_realm/
+1747353998.313443850 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image4.bmp
+1747353998.328430790 - Found file: /root/input_data/image5.bmp
+1747354003.410083720 - Current systemState: processed
+1747354003.440069320 - Copied /root/input_data/image5.bmp to /root/shared_with_realm/
+1747354003.470439930 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image5.bmp
+1747354003.485541890 - Found file: /root/input_data/image6.bmp
+1747354013.606261650 - Current systemState: processed
+1747354013.636669350 - Copied /root/input_data/image6.bmp to /root/shared_with_realm/
+1747354013.666782420 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image6.bmp
+1747354013.681682960 - Found file: /root/input_data/image7.bmp
+1747354018.763837020 - Current systemState: processed
+1747354018.793982720 - Copied /root/input_data/image7.bmp to /root/shared_with_realm/
+1747354018.824515100 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image7.bmp
+1747354018.839559970 - Found file: /root/input_data/image8.bmp
+1747354028.959068190 - Current systemState: processed
+1747354028.989553940 - Copied /root/input_data/image8.bmp to /root/shared_with_realm/
+1747354029.019841710 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image8.bmp
+1747354029.035050340 - Found file: /root/input_data/image9.bmp
+1747354034.116035010 - Current systemState: processed
+1747354034.146721600 - Copied /root/input_data/image9.bmp to /root/shared_with_realm/
+1747354034.176582800 - Updated systemState to 'query' and fileName to /root/shared_with_realm/image9.bmp
+1747354034.193104630 - Process finished, updated systemState to 'finished'
+# 
 
